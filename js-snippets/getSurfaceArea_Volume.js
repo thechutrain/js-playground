@@ -13,3 +13,4 @@ function getAreaVolumn(width, height, depth){
 var array = getAreaVolumn(1,2,3);
 console.log(array[0]);
 console.log(array[1]);
+
