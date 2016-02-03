@@ -1,7 +1,11 @@
-// This code snippet creates a pizza class
-// using the object literal
+// This code snippet creates a pizza class, then adds properities and methods!
 
-var pizza = {};
+
+// using the object literal
+// var pizza = {};
+
+// using the object constructor
+var pizza = new Object();
 
 pizza.crust = "regular";
 pizza.sauce = "tomato";
