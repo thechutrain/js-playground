@@ -1,5 +1,5 @@
 // This code snippet creates a pizza class, then adds properities and methods!
-
+// You can first create a new object in 2 ways: literal notation or object constructor notation
 
 // using the object literal
 // var pizza = {};
